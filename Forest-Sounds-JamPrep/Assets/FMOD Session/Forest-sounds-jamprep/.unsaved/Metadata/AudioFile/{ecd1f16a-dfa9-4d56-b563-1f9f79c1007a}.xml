@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{ecd1f16a-dfa9-4d56-b563-1f9f79c1007a}">
+		<property name="assetPath">
+			<value>footsteps/forest_footstep_6.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.33823129251700679</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1b307e6e-4c05-4f9d-bdaf-62fec906ebb6}</destination>
+		</relationship>
+	</object>
+</objects>

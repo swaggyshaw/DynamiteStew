@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{fa2f0988-0414-439c-8f72-c8fb9cec0f3a}">
+		<property name="name">
+			<value>Music Master</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8bc7ecbc-49d5-4c39-84c0-368df6c1883b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{03757b09-2a45-45ea-bde9-644907b849cb}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{03757b09-2a45-45ea-bde9-644907b849cb}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Forest</value>
+			<value>Further in</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
